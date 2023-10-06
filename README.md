@@ -1,8 +1,10 @@
 # RegistrationForm
-# CombinedTests
+# RegistrationForm using Xpath
+# Testing bugs
+# Negative Test case PIB
 README for Git Repository
 Project Overview
-This README provides information about running test for Successfull Registration Form on Halo oglasi.com .
+This README provides information about running test for Successfull Registration Form on Halo oglasi.com, testing registration form .
 This repository contains a Java project developed using the following technologies:
 
     Java version: "14.0.2" (2020-07-14)
